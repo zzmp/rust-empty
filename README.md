@@ -93,6 +93,7 @@ make cargo-lib         - EXPERIMENTAL: Setup library package
 make rust-ci-lib       - Setup Travis CI Rust library
 make rust-ci-exe       - Setup Travis CI Rust executable
 make rusti             - Setup 'rusti.sh' for interactive Rust
+make watch             - Setup 'watch.sh' for compilation on save
 make loc               - Count lines of code in src folder
 make nightly-install   - Installs Rust nightly built
 make nightly-uninstall - Uninstalls Rust nightly built
